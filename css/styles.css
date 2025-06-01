@@ -176,6 +176,7 @@ margin-right: 76px;
 .section {
   padding: 188px 0;
   max-width: 1440px;
+  margin: 0 auto;
   background-color: #2e2f42;
   text-align: center;
   background-image: url(../images/people-office.jpg);
@@ -298,7 +299,7 @@ margin-right: 76px;
   background-color: #f4f4fd;
 }
 .section-team-title {
-  margin-bottom: 72px;
+margin-bottom: 72px;
 text-align: center;
 font-size: 36px;
 line-height: 1.11;
@@ -327,7 +328,7 @@ color: #2e2f42;
   gap: 24px;
   justify-content: center;
   margin: 0;
-  padding: 0;
+  padding-top: 8px;
 }
 .icon-item {
   width: 40px;
