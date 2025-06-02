@@ -327,8 +327,7 @@ color: #2e2f42;
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin: 0;
-  padding-top: 8px;
+  padding: 8px 0;
 }
 .icon-item {
   width: 40px;
