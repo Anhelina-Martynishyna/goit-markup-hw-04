@@ -299,7 +299,7 @@ margin-right: 76px;
   background-color: #f4f4fd;
 }
 .section-team-title {
-margin-bottom: 72px;
+margin-bottom: 0;
 text-align: center;
 font-size: 36px;
 line-height: 1.11;
@@ -308,11 +308,13 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 .secton-team-list {
+  margin-top: 72px;;
   display: flex;
   gap: 24px;
 }
 .container-name {
   background-color: #FFFFFF;
+  border-bottom: 1px solid transparent;
 }
 .team-list {
   width: calc((100% - 72px) / 4);
